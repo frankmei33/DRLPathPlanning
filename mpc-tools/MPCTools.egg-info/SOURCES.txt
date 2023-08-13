@@ -1,0 +1,17 @@
+COPYING.txt
+README.md
+mpctoolssetup.py
+MPCTools.egg-info/PKG-INFO
+MPCTools.egg-info/SOURCES.txt
+MPCTools.egg-info/dependency_links.txt
+MPCTools.egg-info/top_level.txt
+mpctools/__init__.py
+mpctools/_tests.py
+mpctools/colloc.py
+mpctools/compat.py
+mpctools/git.py
+mpctools/mpcsim.py
+mpctools/plots.py
+mpctools/solvers.py
+mpctools/tools.py
+mpctools/util.py

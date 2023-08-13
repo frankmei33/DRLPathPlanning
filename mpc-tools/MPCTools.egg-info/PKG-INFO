@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: MPCTools
+Version: 2.4.2
+Summary: Nonlinear MPC tools for use with CasADi
+Home-page: https://bitbucket.org/rawlings-group/mpc-tools-casadi
+Author: Michael Risbeck
+Author-email: risbeck@wisc.edu
+License: GNU LGPLv3
+Platform: N/A
+License-File: COPYING.txt
+
+See README for description.
+
